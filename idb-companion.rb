@@ -8,7 +8,7 @@ class IdbCompanion < Formula
   desc "A Powerful Command Line for automating iOS Simulators"
   homepage "https://github.com/facebook/idb/README.md"
   url "https://github.com/facebook/idb/archive/v1.0.14.tar.gz"
-  sha256 "fe52b96f22be6aa6161c1a0e09c04f34f9b5207c49cc0eb16b3e0b3c03744e42"
+  sha256 "dc1bf88d2b6461b361f10ae152cd382a226549d21b5cde392a424914a5d428bd"
   head "https://github.com/facebook/idb.git"
 
   depends_on :xcode => ["8.2", :build]
